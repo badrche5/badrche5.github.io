@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.badrc.sandik",
+        "sha256_cert_fingerprints": ["0E:91:82:61:69:6E:6B:A5:0C:5A:BE:55:A5:2E:05:8B:CE:6F:42:84:47:9D:F3:F6:F7:AF:9C:4C:C8:CB:AC:5E"]
+      }
+    }]
